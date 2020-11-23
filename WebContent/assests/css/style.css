@@ -1,0 +1,40 @@
+/* Start Global */
+body{
+	padding-top: 70px;
+}
+
+/* End Global */
+/* _________________________________________________________________________________ */
+
+/* Start NavBar*/
+.curr{
+	color: red;
+	
+}
+.nocurr{
+	color: green;
+}
+/* End NavBar*/
+
+/* _________________________________________________________________________________ */
+/* title */
+.title{
+	color: #343A40;
+}
+/* _________________________________________________________________________________ */
+/* result alert */
+.alertCustom {
+    background: none; 
+    border: none; 
+}
+.alert-success{
+	color: #05c46b;
+}
+.alert-danger,
+.error{
+	color: #ff3f34;
+}
+
+
+
+

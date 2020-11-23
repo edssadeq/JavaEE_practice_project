@@ -1,0 +1,1 @@
+/* hide the result message on loading showing it in after submit*/
